@@ -1,0 +1,16 @@
+Oppgave 2: Teorioppgave
+
+1. Innkapsling har å gjøre med at man gjør metodene til objekter i en klasse låste til klassen selv.
+På denne måten unngår man at brukere endrer på verdier inne i klassen som ikke burde endres på.
+Man kan ikke direkte låse disse i Python, men vi bruker konvensjoner som å navngi instansvariabler
+og metoder som ikke skal endres med en underscore i starten.
+
+2. Grensesnitet til en klasse er kort fortalt tjenestene som klassen tilbyr.  I oppgave 1 lot vi
+for eksempel brukeren legge til kilometerstanden på motorsykkelen ved å kalle på kjor-funksjonen,
+og hente ned kilometerstands-verdien.
+
+3. Instansemetoder er metoder som manipulerer dato til sin instanse. I oppgave 1 lagde vi for eksempel
+3 objekter med motorsykler. Når jeg da kjørte metoder på sykkel1 kunne jeg endre eller lese data til
+akkurat den instansen. Disse instansene har allerede data attribuert til seg som vi kan se eller endre på,
+mens i prosedyrer og funksjoner starter vi initielt uten data og må enten legge til data i form av
+parametre eller kjøre en prosedyre/funksjon uten parametre. 

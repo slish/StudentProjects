@@ -1,0 +1,8 @@
+Expenses overview:
+
+Groceries:  19646.9 - this is 35.71 % of your total expenses.
+Fun:       21709.3 - this is 39.45 % of your total expenses.
+Business:  6346.9 - this is 11.53 % of your total expenses.
+House:     7321.9 - this is 13.31 % of your total expenses.
+
+Total expenses:     55025.0

@@ -1,0 +1,10 @@
+Oppgave 5: Objektorientert programmering: Viktige begreper
+
+1.
+A: Linje 1:16
+B: Linje 19 og 20
+C: Linje 3:5
+D: Linje 7:16
+E: Linje 2:5
+F: Linje 21,22,25:28,31:34
+G: Linje 19,20,25,26

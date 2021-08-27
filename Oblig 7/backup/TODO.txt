@@ -1,0 +1,3 @@
+convertToList tar inn en string, men i spilleliste gir vi den et sangobjekt
+
+Bør derfor gjør om på sjekkArtist og sjekkTittel slik at de er bygd for å ta inn sangobjekter. 
